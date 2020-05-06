@@ -1,0 +1,348 @@
+
+EDIT SESUKA HATI LO
+JAGA KESEHATAN DAN KEBERSIHAN
+JANGAN LUPA CUCI TANGAN
+JANGAN LUPA CUCI PELER BIAR BERSIH
+
+CREATOR BY PRANKBOTS
+
+
+
+
+flex_promosi = {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkHjOqjmBEVxdVPza3gpATc8StAVEFYG72xN_JWW9jEcqZnh1K&usqp=CAU",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "gravity": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "NAMA ALIANSI BOT",
+            "size": "lg",
+            "color": "#000000",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "248px",
+        "offsetStart": "7px",
+        "offsetEnd": "0px",
+        "borderColor": "#ff0000",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "282px",
+        "height": "40px",
+        "backgroundColor": "#00fdff"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Type Jembut",
+            "size": "lg",
+            "color": "#00fdff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "198px",
+        "offsetStart": "7px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "140px",
+        "height": "45px",
+        "backgroundColor": "#000000aa"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Harga Jembut",
+            "size": "lg",
+            "color": "#00fdff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "198px",
+        "offsetStart": "149px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "140px",
+        "height": "45px",
+        "backgroundColor": "#000000aa"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "jembut 1",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetEnd": "5px"
+          },
+          {
+            "type": "text",
+            "text": "jembut 2",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetEnd": "5px"
+          },
+          {
+            "type": "text",
+            "text": "jemnut 3",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetEnd": "5px"
+          },
+          {
+            "type": "text",
+            "text": "jembut 4",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetEnd": "5px"
+          },
+          {
+            "type": "text",
+            "text": "jembut 5",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetEnd": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "7px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "120px",
+        "height": "105px",
+        "offsetTop": "100px",
+        "backgroundColor": "#000000aa"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Rp.1000",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "Rp.2000",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "Rp.3000",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "Rp.4000",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "Rp.5000",
+            "size": "xs",
+            "color": "#ffffff",
+            "align": "center",
+            "weight": "bold",
+            "offsetTop": "8px",
+            "offsetStart": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "169px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "120px",
+        "height": "105px",
+        "offsetTop": "100px",
+        "backgroundColor": "#000000aa"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.pananat.net/wp-content/uploads/2019/03/LINE-logo-text-official.png",
+            "offsetBottom": "15px"
+          },
+          {
+            "type": "image",
+            "url": "https://i.ya-webdesign.com/images/anime-clipart-file-8.png",
+            "size": "full",
+            "offsetBottom": "35px",
+            "aspectRatio": "2:3"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "118px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "60px",
+        "height": "105px",
+        "offsetTop": "100px",
+        "backgroundColor": "#000000"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Keterangan Bots atau pengumuman",
+                "color": "#000000",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "backgroundColor": "#00fdff",
+            "borderWidth": "2px",
+            "borderColor": "#000000",
+            "cornerRadius": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Kreasi anak bangsa, Flex ini di buat untuk umum , Untuk ini silahkan kalian ubah sendiri lumayan buat konten atau promosi bot nte ... Creator By_ PrankBots",
+                "color": "#000000",
+                "align": "center",
+                "weight": "bold",
+                "size": "xxs",
+                "style": "italic",
+                "wrap": True
+              }
+            ],
+            "backgroundColor": "#ffffff",
+            "borderWidth": "2px",
+            "borderColor": "#000000",
+            "cornerRadius": "10px",
+            "height": "54px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "7px",
+        "offsetEnd": "0px",
+        "borderColor": "#00fdff",
+        "borderWidth": "2px",
+        "cornerRadius": "4px",
+        "width": "282px",
+        "height": "82px",
+        "offsetTop": "208px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.dlpng.com/static/png/6843063_preview.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ"
+            }
+          }
+        ],
+        "position": "absolute",
+        "width": "80px",
+        "height": "80px",
+        "offsetTop": "150px",
+        "offsetStart": "230px"
+      }
+    ],
+    "paddingAll": "0px",
+    "borderColor": "#00fdff",
+    "borderWidth": "2px",
+    "cornerRadius": "15px"
+  }
+}
+
+
+
+            elif Pbot == "flex7":
+              data={"type":"flex","altText":"{} mengundang bot kicker kedalam grup".format(meProfile.displayName),"contents":{"type":"carousel","contents":[flex_promosi]}}
+              me.sendFlex(to,data)
